@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj",
+      "projectUniqueName": "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj",
+      "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj",
       "packagesPath": "/home/jeffrey/.nuget/packages/",
-      "outputPath": "/home/jeffrey/Documents/Desafi Muttu/Domain/obj/",
+      "outputPath": "/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jeffrey/.nuget/NuGet/NuGet.Config"

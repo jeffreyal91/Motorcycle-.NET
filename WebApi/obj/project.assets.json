@@ -9341,11 +9341,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jeffrey/Documents/Desafi Muttu/WebApi/WebApi.csproj",
+      "projectUniqueName": "/home/jeffrey/Documents/Motorcycle .NET/WebApi/WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "/home/jeffrey/Documents/Desafi Muttu/WebApi/WebApi.csproj",
+      "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/WebApi/WebApi.csproj",
       "packagesPath": "/home/jeffrey/.nuget/packages/",
-      "outputPath": "/home/jeffrey/Documents/Desafi Muttu/WebApi/obj/",
+      "outputPath": "/home/jeffrey/Documents/Motorcycle .NET/WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jeffrey/.nuget/NuGet/NuGet.Config"
@@ -9360,8 +9360,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/jeffrey/Documents/Desafi Muttu/Application/Application.csproj": {
-              "projectPath": "/home/jeffrey/Documents/Desafi Muttu/Application/Application.csproj"
+            "/home/jeffrey/Documents/Motorcycle .NET/Application/Application.csproj": {
+              "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/Application/Application.csproj"
             }
           }
         }

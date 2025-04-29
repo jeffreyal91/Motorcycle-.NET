@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GovQddlBQE=",
+  "dgSpecHash": "aV+NPPIW/54=",
   "success": true,
-  "projectFilePath": "/home/jeffrey/Documents/Desafi Muttu/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/home/jeffrey/Documents/Motorcycle .NET/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/jeffrey/.nuget/packages/antlr3.runtime/3.5.1/antlr3.runtime.3.5.1.nupkg.sha512",
     "/home/jeffrey/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",

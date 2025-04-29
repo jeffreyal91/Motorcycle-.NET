@@ -10,3 +10,14 @@
 /home/jeffrey/Documents/Desafi Muttu/Domain/obj/Debug/net8.0/refint/Domain.dll
 /home/jeffrey/Documents/Desafi Muttu/Domain/obj/Debug/net8.0/Domain.pdb
 /home/jeffrey/Documents/Desafi Muttu/Domain/obj/Debug/net8.0/ref/Domain.dll
+/home/jeffrey/Documents/Motorcycle .NET/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/jeffrey/Documents/Motorcycle .NET/Domain/bin/Debug/net8.0/Domain.dll
+/home/jeffrey/Documents/Motorcycle .NET/Domain/bin/Debug/net8.0/Domain.pdb
+/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/Debug/net8.0/Domain.dll
+/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/Debug/net8.0/Domain.pdb
+/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/Debug/net8.0/ref/Domain.dll

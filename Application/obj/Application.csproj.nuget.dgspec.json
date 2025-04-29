@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jeffrey/Documents/Desafi Muttu/Application/Application.csproj": {}
+    "/home/jeffrey/Documents/Motorcycle .NET/Application/Application.csproj": {}
   },
   "projects": {
-    "/home/jeffrey/Documents/Desafi Muttu/Application/Application.csproj": {
+    "/home/jeffrey/Documents/Motorcycle .NET/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jeffrey/Documents/Desafi Muttu/Application/Application.csproj",
+        "projectUniqueName": "/home/jeffrey/Documents/Motorcycle .NET/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/jeffrey/Documents/Desafi Muttu/Application/Application.csproj",
+        "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/Application/Application.csproj",
         "packagesPath": "/home/jeffrey/.nuget/packages/",
-        "outputPath": "/home/jeffrey/Documents/Desafi Muttu/Application/obj/",
+        "outputPath": "/home/jeffrey/Documents/Motorcycle .NET/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jeffrey/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj": {
-                "projectPath": "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj"
+              "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj": {
+                "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj"
               },
-              "/home/jeffrey/Documents/Desafi Muttu/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/home/jeffrey/Documents/Desafi Muttu/Infrastructure/Infrastructure.csproj"
+              "/home/jeffrey/Documents/Motorcycle .NET/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj": {
+    "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj",
+        "projectUniqueName": "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj",
+        "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj",
         "packagesPath": "/home/jeffrey/.nuget/packages/",
-        "outputPath": "/home/jeffrey/Documents/Desafi Muttu/Domain/obj/",
+        "outputPath": "/home/jeffrey/Documents/Motorcycle .NET/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jeffrey/.nuget/NuGet/NuGet.Config"
@@ -159,14 +159,14 @@
         }
       }
     },
-    "/home/jeffrey/Documents/Desafi Muttu/Infrastructure/Infrastructure.csproj": {
+    "/home/jeffrey/Documents/Motorcycle .NET/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jeffrey/Documents/Desafi Muttu/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/home/jeffrey/Documents/Motorcycle .NET/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/home/jeffrey/Documents/Desafi Muttu/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/home/jeffrey/.nuget/packages/",
-        "outputPath": "/home/jeffrey/Documents/Desafi Muttu/Infrastructure/obj/",
+        "outputPath": "/home/jeffrey/Documents/Motorcycle .NET/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jeffrey/.nuget/NuGet/NuGet.Config"
@@ -181,8 +181,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj": {
-                "projectPath": "/home/jeffrey/Documents/Desafi Muttu/Domain/Domain.csproj"
+              "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj": {
+                "projectPath": "/home/jeffrey/Documents/Motorcycle .NET/Domain/Domain.csproj"
               }
             }
           }
